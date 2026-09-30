@@ -11,6 +11,7 @@ um ícone de skin que já está à venda.
 | `100.png` / `100_grande.png` | Esqueleto |
 | `101.png` / `101_grande.png` | Astronauta |
 | `102.png` / `102_grande.png` | Zumbi |
+| `103.png` / `103_grande.png` | Noa Danucalov |
 
 `<número>.png` tem 200 × 200 e `<número>_grande.png` tem 1024 × 1024. O número é
 o `ITEM` do `.txt` da skin. Os arquivos saem de `Tools/Steam/inventario/icones`
